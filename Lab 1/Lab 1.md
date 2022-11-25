@@ -19,7 +19,7 @@ Potrebne resurse tipa fotografiju tj. grafiku je potebno samostalno pronaći.
 
 ## **Dizajn**
 
-![Untitled](Res/Untitled.png)
+![Untitled](Untitled.png)
 
 Izvor: Visoko učilište Algebra - Izrada aplikacija za mobilne uređaje
 
